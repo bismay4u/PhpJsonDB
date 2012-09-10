@@ -12,26 +12,26 @@ use SQLite, but then that tends to be positivily painstaking.
 <br/>
 <br/>
 <b>Features</b><br/>
-Small file-centric, Least Requirments (PHP only).
-Easy migrating data between places (Simply copy the files).
-Pure JSON data makes easy translating between tabular data and objects in JavaScript.
-Ability to combine query expressions, conditional expressions and xpath type expressions in any order.
-Single execution context helps makes it lightning fast to perform queries and updates.
-High configurabilty, Light weight, and small code base.
-Simple and no schema, no indexes, no complicated SQL. Just objects.
-Inbuilt AJAX Support helps you reduce your work load in wrtting up extra ajax code for pulling data.
+Small file-centric, Least Requirments (PHP only).<br/>
+Easy migrating data between places (Simply copy the files).<br/>
+Pure JSON data makes easy translating between tabular data and objects in JavaScript.<br/>
+Ability to combine query expressions, conditional expressions and xpath type expressions in any order.<br/>
+Single execution context helps makes it lightning fast to perform queries and updates.<br/>
+High configurabilty, Light weight, and small code base.<br/>
+Simple and no schema, no indexes, no complicated SQL. Just objects/arrays.<br/>
+Inbuilt AJAX Support helps you reduce your work load in wrtting up extra ajax code for pulling data.<br/>
 <br/>
 <br/>
 <b>InPlans</b><br/>
-Rest API support.
-Parrallel Data Transaction Support.
-Implement SQL subset for more SQL compatibilty.
-Implment Data Export/Import Functionalities.
-AJAX Authentification and permissions.
+Rest API support.<br/>
+Parrallel Data Transaction Support.<br/>
+Implement SQL subset for more SQL compatibilty.<br/>
+Implment Data Export/Import Functionalities.<br/>
+AJAX Authentification and permissions.<br/>
 <br/>
 <br/>
 <b>Requirments</b><br/>
-PHP5.2+ (Apache) to work.
+PHP5.2+ (Apache) to work.<br/>
 <br/>
 <br/>
 <b>Notes</b><br/>
