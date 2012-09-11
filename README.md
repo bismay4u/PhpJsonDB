@@ -40,5 +40,5 @@ PhpJsonDB is made for web servers. If you want to try it on your local computer,
 I recommend XAMPP/WAMP for this.
 <br/>
 <br/>
-Thank You,
+Thank You,<br/>
 Bismay
